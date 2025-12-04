@@ -30,7 +30,7 @@ export default function ContactSection () {
             <div className="border border-light/20 w-full"/>
             <footer className="flex flex-col items-center gap-4 text-center w-full">
                 <p>© 2025 De las raíces a tus manos. Todos los derechos reservados.</p>
-                <p className="flex items-center gap-1">Hecno con <HeartIcon width={20}/> para tu cabello</p>
+                <p className="flex items-center gap-1">Hecho con <HeartIcon width={20}/> para tu cabello</p>
             </footer>
         </section>
         </div>

@@ -13,7 +13,7 @@ export default function HowSection () {
                 <HowCard  icon={<NumberIcon number={"01"} />} title={"Aplicar en el cuero cabelludo"} description={"Aplica el producto directamente en el cuero cabelludo, puede estar seco o mojado según tu preferencia."}/>
                 <HowCard  icon={<NumberIcon number={"02"} />} title={"Masajear suavemente"} description={"Realiza un masaje circular con las yemas de los dedos hasta sentir una sensación de calor en el cuero cabelludo."}/>
                 <HowCard  icon={<NumberIcon number={"03"} />} title={"Recoger y dejar actuar"} description={"Recoge tu cabello en un moño alto y deja reposar mínimo 4 horas o el tiempo que desees."}/>
-                <HowCard  icon={<IconIcon icon={<NoSymbolIcon width={30}/>} />} title={"Recoger y dejar actuar"} description={"Recoge tu cabello en un moño alto y deja reposar mínimo 4 horas o el tiempo que desees."}/>
+                <HowCard  icon={<IconIcon icon={<NoSymbolIcon width={30}/>} />} title={"Consejo importante"} description={"Mientras más seguido se use, más rápidos serán los resultados. Para mejores resultados, recomendamos aplicar el tratamiento al menos 3 veces por semana. La constancia es clave para ver una transformación notable en tu cabello."}/>
             </main>
         </section>
         </div>
