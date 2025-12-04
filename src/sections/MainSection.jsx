@@ -19,14 +19,14 @@ export default function MainSection () {
                     </p>
                     <span className="opacity-50 italic">(Deuteronomio 28:12)</span>
                 </div>
-                <div className="flex flex-col gap-2">
-                    <button className="bg-primary p-2 w-full rounded-lg text-light font-bold">
+                <div className="flex flex-col items-center justify-center gap-2">
+                    <a href="https://www.instagram.com/raices_a_tus_manos/?igsh=NDh6NTM1NWdvd3Fw#" target="_blank" className="bg-primary p-2 w-full text-center rounded-lg text-light font-bold">
                         Comprar ahora
-                    </button>
-                    <button className="flex items-center justify-center w-full gap-4 p-2 bg-transparent border border-dark/10 rounded-lg font-bold">
+                    </a>
+                    <a href="https://www.instagram.com/raices_a_tus_manos/?igsh=NDh6NTM1NWdvd3Fw#" target="_blank" className="flex items-center justify-center w-full gap-4 p-2 bg-transparent border border-dark/10 rounded-lg font-bold">
                         <Instagram />
                         <span>Síguenos en Instagram</span>
-                    </button>
+                    </a>
                 </div>
                 <div className="flex items-center justify-around gap-2 text-sm">
                     <article className="flex flex-col gap-2 items-center">

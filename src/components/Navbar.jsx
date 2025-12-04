@@ -48,9 +48,9 @@ export default function Navbar () {
                         </li>
                     </ul>
                 </nav>
-                <button className="bg-primary p-2 text-light rounded-lg">
+                <a target="_blank" href="https://www.instagram.com/raices_a_tus_manos/?igsh=NDh6NTM1NWdvd3Fw#" className="bg-primary p-2 text-light rounded-lg">
                     Comprar ahora
-                </button>
+                </a>
             </div>
         </header>
         </>
